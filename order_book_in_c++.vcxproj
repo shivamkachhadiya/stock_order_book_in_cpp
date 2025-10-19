@@ -125,6 +125,10 @@
   <ItemGroup>
     <ClCompile Include="order_book_in_c++.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dynamic_stcok_ask_bid.h" />
+    <ClInclude Include="stocks_basics.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
